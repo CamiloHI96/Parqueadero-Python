@@ -1,0 +1,10 @@
+header {
+    grid-area: header;
+    color: #FFF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFF;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
